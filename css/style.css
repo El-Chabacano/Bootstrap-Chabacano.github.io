@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+.header{
+	background: black;
+	height: 100px;
+	margin-bottom: 60px;
+}
+
+
+.galeria div {
+	background: grey;
+	height: 600px;
+	margin-bottom: 50px;
+	margin-left: 75px;
+	
+	
+}
+
+.mejor{
+	background: black;
+	height: 100px;
+	
+}
+
+.videos{
+	
+	background: #393737;
+	padding-bottom: 80px;
+	padding-top: 80px;
+}
+
+.videos .row div{
+	
+	background: grey;
+	height: 200px;
+	margin-bottom: 20px;
+	margin-left: 80PX;
+	
+}
+
+
+.pie{
+	background: black;
+	color: white;
+	height: 150px;
+	
+}
+
+
